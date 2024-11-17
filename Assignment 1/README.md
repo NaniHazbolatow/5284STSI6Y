@@ -20,9 +20,9 @@ Orthogonal sampling requires that the sample sizes to be a square of a prime num
 
 ## Dependencies
 The dependencies for this project are:
-    - python      3.12
-    - ipykernel   6.29.5+
-    - matplotlib  3.9.2+
-    - numpy       1.26.4+
-    - scipy       1.13.1+
-    - cuda        12.0+
+  * python      3.12
+  * ipykernel   6.29.5+
+  * matplotlib  3.9.2+
+  * numpy       1.26.4+
+  * scipy       1.13.1+
+  * cuda        12.0+
