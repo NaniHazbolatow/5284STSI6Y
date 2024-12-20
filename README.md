@@ -9,3 +9,6 @@ Go to the [Assignment 1](https://github.com/NaniHazbolatow/5284STSI6Y/tree/main/
 
 In the second assignment, we have used Discrete event simulations to simulate queues with different queuing policies and different service distributions.
 Go to the [Assignment 2](https://github.com/NaniHazbolatow/5284STSI6Y/tree/main/Assignment%202) folder for further information.
+
+In the third assignment, we have used stochastic hill climbing and simulated annealing in order to reverse engineer the parameters of the Lotka-Volterra equations.
+Go to the [Assignment 3](https://github.com/NaniHazbolatow/5284STSI6Y/tree/main/Assignment%203) folder for further information.
